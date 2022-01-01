@@ -1,3 +1,3 @@
 # test69
-lmao
-main in framerunner
+
+main method in art.java
